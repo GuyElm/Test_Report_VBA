@@ -7,7 +7,7 @@ Content:
 * Source_work3 -- Word template to paste information from excel and then save it as pdf
 * Code_Only    -- Actual excel macro file that contains the code for making this report
 
-Description
+Description:
 This mini-project let the user download template of reports in "Danel" program (my current work place).
 after the user downloaded an excel file that contain the requested reports with specific names the macro file do as follows:
 * Runs on a specific folder and look for all the xlsx files
